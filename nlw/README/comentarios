@@ -1,0 +1,36 @@
+Anotações da aula e códigos de exemplo */
+
+/* h1, span, a {
+    width: 20px;
+}  */
+
+/* ______________________________________________ */
+/* referencia por tag */
+
+/* h1 { 
+    color: red;
+    font-size: 1em; relativo ao valor de "cima"
+} */
+/* ______________________________________________ */
+/* serve para referenciar classes */
+
+/* .red { 
+    color: blue;
+} */
+/* ______________________________________________ */
+/*referencia por id*/
+
+/* div#id { 
+    color: black;
+}  */
+
+
+/* Comentarios 
+
+ 1 - Cascading StyleSheet é uma folha de estilo em cascata 
+ 2 -  shift alt A para comentar trecho e ctrl / pra comentar linha 
+ 3 - prioridade em cascata 
+                      e prioridade nessa ordem 
+                      ID >> CLASS >> Tag
+/* 
+/* ______________________________________________
